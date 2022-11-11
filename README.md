@@ -16,10 +16,6 @@ This repository contains codes and processed data files for analyses presented i
 * 14062022_visualisation_short_range_cytoscape_colorpalete : Cytoscape file for Figure 1 
 * 07072022_NPP_GPCR_networks_short_range_model : Dataset used to build Cytoscape figure 
 
-**Figure 2**
-
-*
-*
 
 **Figure 3**
 
@@ -28,9 +24,18 @@ This repository contains codes and processed data files for analyses presented i
 
 **Figure 4**
 
+*
+*
+
 **Figure 5**
 
+* 07072022_NPP_GPCR_networks_short_range_model : Dataset used to build matrix depiction in colour in figure 
+* 07072022_NPP_GPCR_networks_mid_range_model : Dataset used to build matrix depiction in grey in figure 
+
 **Figure 6**
+
+*
+*
 
 **Figure 7**
 
