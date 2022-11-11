@@ -13,8 +13,8 @@ This repository contains codes and processed data files for analyses presented i
 
 **Figure 1**
 
-*14062022_visualisation_short_range_cytoscape_colorpalete : Cytoscape file for Figure 1 
-*07072022_NPP_GPCR_networks_short_range_model : Dataset used to build Cytoscape figure 
+* 14062022_visualisation_short_range_cytoscape_colorpalete : Cytoscape file for Figure 1 
+* 07072022_NPP_GPCR_networks_short_range_model : Dataset used to build Cytoscape figure 
 
 **Figure 2**
 
