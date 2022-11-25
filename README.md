@@ -28,8 +28,8 @@ This repository contains codes and processed data files for analyses presented i
 
 * Barplot_Neuron_with_GPCR.png : Number of neurons that express each GPCR, used for the assortativity analysis
 * Barplot_Neuron_with_neuropeptide.png : Number of neurons that express each NPP, used for the assortativity analysis
-* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range
-* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range 
+* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure
+* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure 
 
 **Figure 5**
 
@@ -46,7 +46,7 @@ This repository contains codes and processed data files for analyses presented i
 
 **Figure 7**
 
-*
+* 07072022_neuropeptide_connectome_mid_range_sorted_by_groups.csv : Dataset used to build matrix depiction in the figure, resorted mid range matrix
 *
 
 **Figure 8**
