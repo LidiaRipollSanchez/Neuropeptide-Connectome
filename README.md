@@ -14,27 +14,30 @@ This repository contains codes and processed data files for analyses presented i
 **Figure 1**
 
 * 14062022_visualisation_short_range_cytoscape_colorpalete : Cytoscape file for Figure 1 
-* 07072022_NPP_GPCR_networks_short_range_model : Dataset used to build Cytoscape figure 
+* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build Cytoscape figure 
 
 
 **Figure 3**
 
-*
-*
+* Worm_head_midbody_tail3_horizontal.pdf : worm outline figure
+*  : Expression of 1 ligand GPCRs by neuron
+*  : Expression of cognate NPPs that specifically bind only GPCRs that bind only 1 ligand
 
 **Figure 4**
 
-*
-*
+*  : Number of neurons that express each GPCR
+*  : Number of neurons that express each cognate NPP
+*  : Adjacency matrices of all 91 NPP-GPCR networks short-range
+*  : Adjacency matrices of all 91 NPP-GPCR networks mid range 
 
 **Figure 5**
 
-* 07072022_NPP_GPCR_networks_short_range_model : Dataset used to build matrix depiction in colour in figure 
-* 07072022_NPP_GPCR_networks_mid_range_model : Dataset used to build matrix depiction in grey in figure 
+* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build matrix depiction in colour in figure 
+* 07072022_NPP_GPCR_networks_mid_range_model.csv : Dataset used to build matrix depiction in grey in figure 
 
 **Figure 6**
 
-* 07072022_degrees (comparison between different connection range) : Excel file with data and comparisons between the short, long and mid range neuropeptide connectomes and the synaptic, gap junction and monoamine connectomes. 
+* 07072022_degrees (comparison between different connection range).xlsx : Excel file with data and comparisons between the short, long and mid range neuropeptide connectomes and the synaptic, gap junction and monoamine connectomes. 
 * All grouped neuropeptide networks short range rich club.csv : short range rich club data shown in figure
 * All grouped neuropeptide networks mid range rich club.csv : mid range rich club data
 
