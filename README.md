@@ -49,7 +49,7 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 **Figure 7**
 
 * 07072022_neuropeptide_connectome_mid_range_sorted_by_groups.csv : Dataset used to build matrix depiction in the figure, resorted mid range matrix
-*
+* 07072022_Groups_mid_range_network_table.csv : table with the t-SNE values, the neuron names, their group allocation and their indegree used in the figure
 
 **Figure 8**
 
