@@ -40,7 +40,12 @@ This repository contains codes and processed data files for analyses presented i
 
 **Figure 7**
 
+*
+*
+
 **Figure 8**
+
+*
 
 **Supplementary data**
 
