@@ -11,6 +11,8 @@ Efforts are currently ongoing to map synaptic wiring diagrams or connectomes in 
 
 This repository contains codes and processed data files for analyses presented in this [bioRxiv paper](https://www.biorxiv.org/content/10.1101/2022.10.30.514396v2.full)
 
+Original scRNAseq data used in this paper comes from [the CeNGEN consortia](https://www.sciencedirect.com/science/article/pii/S0092867421007583?via%3Dihub#fig3) and original deorphanisation data used in this paper comes from [this paper](https://www.biorxiv.org/content/10.1101/2022.10.30.514428v1.full)
+
 **Figure 1**
 
 * 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys : Cytoscape file for Figure 1 
@@ -28,8 +30,8 @@ This repository contains codes and processed data files for analyses presented i
 
 * Barplot_Neuron_with_GPCR.png : Number of neurons that express each GPCR, used for the assortativity analysis
 * Barplot_Neuron_with_neuropeptide.png : Number of neurons that express each NPP, used for the assortativity analysis
-* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure
-* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure 
+* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure and figure S2
+* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure S3
 
 **Figure 5**
 
