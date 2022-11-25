@@ -28,13 +28,13 @@ This repository contains codes and processed data files for analyses presented i
 
 *  : Number of neurons that express each GPCR
 *  : Number of neurons that express each cognate NPP
-*  : Adjacency matrices of all 91 NPP-GPCR networks short-range
-*  : Adjacency matrices of all 91 NPP-GPCR networks mid range 
+* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range
+* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range 
 
 **Figure 5**
 
-* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build matrix depiction in colour in figure 
-* 07072022_NPP_GPCR_networks_mid_range_model.csv : Dataset used to build matrix depiction in grey in figure 
+* 07072022_neuropeptide_connectome_short_range_model.csv : Dataset used to build matrix depiction in colour in figure 
+* 07072022_neuropeptide_connectome_mid_range_model.csv : Dataset used to build matrix depiction in grey in figure 
 
 **Figure 6**
 
@@ -53,5 +53,6 @@ This repository contains codes and processed data files for analyses presented i
 
 **Supplementary data**
 
+* 07072022_NPP_GPCR_networks_long_range_model : 91 individual NPP-GPCR networks long-range model
+* 07072022_neuropeptide_connectome_long_range_model : all grouped NPP-GPCR networks long-range model
 
-[Go to Real Cool Heading section](#real-cool-heading)
