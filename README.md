@@ -34,8 +34,9 @@ This repository contains codes and processed data files for analyses presented i
 
 **Figure 6**
 
-*07072022_degrees (comparison between different connection range) : Excel file with data and comparisons between the short, long and mid range neuropeptide connectomes and the synaptic, gap junction and monoamine connectomes. 
-*
+* 07072022_degrees (comparison between different connection range) : Excel file with data and comparisons between the short, long and mid range neuropeptide connectomes and the synaptic, gap junction and monoamine connectomes. 
+* All grouped neuropeptide networks short range rich club.csv : short range rich club data shown in figure
+* All grouped neuropeptide networks mid range rich club.csv : mid range rich club data
 
 **Figure 7**
 
