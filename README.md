@@ -17,7 +17,7 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 * 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys : Cytoscape file for Figure 1 
 * 14062022_visualisation_short_range_cytoscape_colorpalete.pdf : Network representation from Figure 1
-* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build Cytoscape figure 
+* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build Cytoscape figure, network expressed as edge list
 
 
 **Figure 3**
@@ -39,6 +39,8 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 * 07072022_neuropeptide_connectome_mid_range_model.csv : Dataset used to build matrix depiction in grey in figure 
 * Barplot_NPP_per_neuron.png : number of NPPs expressed per neuron, neurons sorted in alphabetical order
 * Barplot_GPCR_per_neuron.png : number of GPCRs expressed per neuron, neurons sorted in alphabetical order
+* 26012022_num_neuronID.txt : neurons that correspond to each row and column in the adjancency matrices
+* 072022_anatomical_class.csv : classification of each neuron in a neuronal type and matrix of anatomical proximity of neuronal processes that was used to define the short-range constraints for the short range network. 
 
 **Figure 6**
 
