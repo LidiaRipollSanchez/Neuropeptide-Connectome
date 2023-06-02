@@ -32,6 +32,7 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 * Barplot_Neuron_with_neuropeptide.png : Number of neurons that express each NPP, used for the assortativity analysis
 * 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure and figure S2
 * 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure S3
+* 20220103_Order of 91 NPP/GPCR networks.csv : Order of the 91 NPP-GPCR networks in list format used for supplementary figure S2 and S3
 
 **Figure 5**
 
