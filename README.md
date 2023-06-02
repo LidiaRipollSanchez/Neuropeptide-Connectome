@@ -15,35 +15,35 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 **Figure 1**
 
-* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys : Cytoscape file for Figure 1 
-* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf : Network representation from Figure 1
-* 07072022_NPP_GPCR_networks_short_range_model.csv : Dataset used to build Cytoscape figure, network expressed as edge list
+* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys (FOLDER Adjacency matrices for networks): Cytoscape file for Figure 1 
+* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf (FOLDER Adjacency matrices for networks): Network representation from Figure 1
+* 07072022_NPP_GPCR_networks_short_range_model.csv (FOLDER Adjacency matrices for networks): Dataset used to build Cytoscape figure, network expressed as edge list
 
 
 **Figure 3**
 
-* Worm_head_midbody_tail3_horizontal.pdf : worm outline figure
-* GPCR_with_one_ligand : identities of GPCRs that only have 1 ligand
-* cognate_Neuropeptide_to_GPCR_with_one_ligand : the identities of the cognate neuropeptides
-* Neuron_expression_GPCR_1_ligand: Expression of 1 ligand GPCRs by neuron
+* Worm_head_midbody_tail3_horizontal.pdf (FOLDER Figures): worm outline figure
+* GPCR_with_one_ligand (FOLDER Models Comparison): identities of GPCRs that only have 1 ligand
+* cognate_Neuropeptide_to_GPCR_with_one_ligand (FOLDER Models Comparison): the identities of the cognate neuropeptides
+* Neuron_expression_GPCR_1_ligand (FOLDER Models Comparison): Expression of 1 ligand GPCRs by neuron
 * Neuron_expression_cognate_NPP_to_GPCR_1_ligand: Expression of cognate NPPs that specifically bind only GPCRs that bind only 1 ligand
 
 **Figure 4**
 
 * Barplot_Neuron_with_GPCR.png : Number of neurons that express each GPCR, used for the assortativity analysis
 * Barplot_Neuron_with_neuropeptide.png : Number of neurons that express each NPP, used for the assortativity analysis
-* 07072022_NPP_GPCR_networks_short_range_model : Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure and figure S2
-* 07072022_NPP_GPCR_networks_mid_range_model : Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure S3
+* 07072022_NPP_GPCR_networks_short_range_model (FOLDER Adjacency matrices for networks): Adjacency matrices of all 91 NPP-GPCR networks short-range used to build the graphs in the figure and figure S2
+* 07072022_NPP_GPCR_networks_mid_range_model (FOLDER Adjacency matrices for networks): Adjacency matrices of all 91 NPP-GPCR networks mid range used to build supplementary figure S3
 * 20220103_Order of 91 NPP/GPCR networks.csv : Order of the 91 NPP-GPCR networks in list format used for supplementary figure S2 and S3
 
 **Figure 5**
 
-* 07072022_neuropeptide_connectome_short_range_model.csv : Dataset used to build matrix depiction in colour in figure 
-* 07072022_neuropeptide_connectome_mid_range_model.csv : Dataset used to build matrix depiction in grey in figure 
+* 07072022_neuropeptide_connectome_short_range_model.csv (FOLDER Adjacency matrices for networks): Dataset used to build matrix depiction in colour in figure 
+* 07072022_neuropeptide_connectome_mid_range_model.csv (FOLDER Adjacency matrices for networks): Dataset used to build matrix depiction in grey in figure 
 * Barplot_NPP_per_neuron.png : number of NPPs expressed per neuron, neurons sorted in alphabetical order
 * Barplot_GPCR_per_neuron.png : number of GPCRs expressed per neuron, neurons sorted in alphabetical order
 * 26012022_num_neuronID.txt : neurons that correspond to each row and column in the adjancency matrices
-* 072022_anatomical_class.csv : classification of each neuron in a neuronal type and matrix of anatomical proximity of neuronal processes that was used to define the short-range constraints for the short range network. 
+* 072022_anatomical_class.csv (FOLDER Main): classification of each neuron in a neuronal type and matrix of anatomical proximity of neuronal processes that was used to define the short-range constraints for the short range network. 
 
 **Figure 6**
 
@@ -53,8 +53,8 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 **Figure 7**
 
-* 07072022_neuropeptide_connectome_mid_range_sorted_by_groups.csv : Dataset used to build matrix depiction in the figure, resorted mid range matrix
-* 07072022_Groups_mid_range_network_table.csv : table with the t-SNE values, the neuron names, their group allocation and their indegree used in the figure
+* 07072022_neuropeptide_connectome_mid_range_sorted_by_groups.csv (FOLDER Adjacency matrices for networks): Dataset used to build matrix depiction in the figure, resorted mid range matrix
+* 07072022_Groups_mid_range_network_table.csv (FOLDER Adjacency matrices for networks): table with the t-SNE values, the neuron names, their group allocation and their indegree used in the figure
 
 **Figure 8**
 
@@ -62,6 +62,6 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 **Supplementary data**
 
-* 07072022_NPP_GPCR_networks_long_range_model : 91 individual NPP-GPCR networks long-range model
-* 07072022_neuropeptide_connectome_long_range_model : all grouped NPP-GPCR networks long-range model
+* 07072022_NPP_GPCR_networks_long_range_model (FOLDER Adjacency matrices for networks): 91 individual NPP-GPCR networks long-range model
+* 07072022_neuropeptide_connectome_long_range_model (FOLDER Adjacency matrices for networks): all grouped NPP-GPCR networks long-range model
 
