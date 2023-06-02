@@ -25,8 +25,8 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 * Worm_head_midbody_tail3_horizontal.pdf : worm outline figure
 * GPCR_with_one_ligand : identities of GPCRs that only have 1 ligand
 * cognate_Neuropeptide_to_GPCR_with_one_ligand : the identities of the cognate neuropeptides
-*  : Expression of 1 ligand GPCRs by neuron
-*  : Expression of cognate NPPs that specifically bind only GPCRs that bind only 1 ligand
+* Neuron_expression_GPCR_1_ligand: Expression of 1 ligand GPCRs by neuron
+* Neuron_expression_cognate_NPP_to_GPCR_1_ligand: Expression of cognate NPPs that specifically bind only GPCRs that bind only 1 ligand
 
 **Figure 4**
 
