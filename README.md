@@ -15,7 +15,7 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 **Figure 1**
 
-* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys [a relative link](Adjacency matrices for networks/14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys)(FOLDER Adjacency matrices for networks): Cytoscape file for Figure 1 
+* 14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys [a relative link](Neuropeptide-Connectome/Adjacency matrices for networks/14062022_visualisation_short_range_cytoscape_colorpalete.pdf.cys)(FOLDER Adjacency matrices for networks): Cytoscape file for Figure 1 
 * 14062022_visualisation_short_range_cytoscape_colorpalete.pdf (FOLDER Adjacency matrices for networks): Network representation from Figure 1
 * 07072022_NPP_GPCR_networks_short_range_model.csv (FOLDER Adjacency matrices for networks): Dataset used to build Cytoscape figure, network expressed as edge list
 
