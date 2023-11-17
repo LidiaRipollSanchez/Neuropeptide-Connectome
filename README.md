@@ -9,9 +9,9 @@ Efforts are currently ongoing to map synaptic wiring diagrams or connectomes in 
 
 **About this repository**
 
-This repository contains codes and processed data files for analyses presented in this [bioRxiv paper](https://www.biorxiv.org/content/10.1101/2022.10.30.514396v2.full)
+This repository contains codes and processed data files for analyses presented in [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0)
 
-Original scRNAseq data used in this paper comes from [the CeNGEN consortia](https://www.sciencedirect.com/science/article/pii/S0092867421007583?via%3Dihub#fig3) and original deorphanisation data used in this paper comes from [this paper](https://www.biorxiv.org/content/10.1101/2022.10.30.514428v1.full)
+Original scRNAseq data used for analysis comes from [the CeNGEN consortia](https://www.sciencedirect.com/science/article/pii/S0092867421007583?via%3Dihub#fig3) and neuropeptide-receptor deorphanisation data comes from [Beets et al., 2023](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01069-0.pdf). Synaptic connectivity and anatomical structure of the nervous system of C.elegans come from a list of resources including [White et al., 1986](https://doi.org/10.1098/rstb.1986.0056), [Witvliet et al., 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8756380/pdf/nihms-1766209.pdf), [Varshney et al., 2011](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001066)
 
 **Figure 1**
 
@@ -64,4 +64,6 @@ Original scRNAseq data used in this paper comes from [the CeNGEN consortia](http
 
 * 07072022_NPP_GPCR_networks_long_range_model (FOLDER Adjacency matrices for networks): 91 individual NPP-GPCR networks long-range model
 * 07072022_neuropeptide_connectome_long_range_model (FOLDER Adjacency matrices for networks): all grouped NPP-GPCR networks long-range model
+
+**Extended sensitivity data (further analysis than what show in the paper)**
 
