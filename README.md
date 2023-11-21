@@ -25,7 +25,7 @@ All scripts for running the analysis shown in the paper, and all the input files
 
 **Figure 2**
 
-*17072023_Main_figures (1-4).pdf (Figure 2): The figure
+* 17072023_Main_figures (1-4).pdf (Figure 2): The figure
 
 **Figure 3**
 
@@ -75,6 +75,7 @@ All scripts for running the analysis shown in the paper, and all the input files
 * All supplementary tables presented in [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0)
 
 **Sensitivity data**
+
 (extended analysis than what show in the paper, All files in the Sensitivity Analysis FOLDER)
 
 * CSV FOLDERS include the adjacency matrices found in the Adjacency matrices for networks but at the threshold stated (T4 = CeNGEN threshold 4, T3 = CeNGEN threshold 3, the concentration at the end of the name indicates the EC50 threshold for deorphanisation, the neuropeptide_pairs.csv file on each folder indicates the identities of the individual networks )
