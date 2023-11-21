@@ -52,7 +52,7 @@ All scripts for running the analysis shown in the paper, and all the input files
 * 08062023_neuropeptide_connectome_mid_range_model.csv (FOLDER Adjacency matrices for networks): Dataset used to build matrix depiction in grey in figure 
 * Barplot_NPP_per_neuron.png (FOLDER Expression analysis): number of NPPs expressed per neuron, neurons sorted in alphabetical order
 * Barplot_GPCR_per_neuron.png (FOLDER Expression analysis): number of GPCRs expressed per neuron, neurons sorted in alphabetical order
-* 26012022_num_neuronID.txt (FOLDER Scripts & data): neurons that correspond to each row and column in the adjancency matrices
+* 26012022_num_neuronID.txt (FOLDER Scripts & data): neurons that correspond to each row and column in the adjacency matrices
 * 072022_anatomical_class.csv (FOLDER Scripts & data): classification of each neuron in a neuronal type and matrix of anatomical proximity of neuronal processes that was used to define the short-range constraints for the short range network. 
 
 **Figure 6**
@@ -64,8 +64,7 @@ All scripts for running the analysis shown in the paper, and all the input files
 **Figure 7**
 
 * 17072023_Main_figures (4-8).pdf (Figure 7) (FOLDER Figures): The figure
-* 07072022_neuropeptide_connectome_mid_range_sorted_by_groups.csv (FOLDER Adjacency matrices for networks): Dataset used to build matrix depiction in the figure, resorted mid range matrix
-* 07072022_Groups_mid_range_network_table.csv (FOLDER Adjacency matrices for networks): table with the t-SNE values, the neuron names, their group allocation and their indegree used in the figure
+* 08062023_Groups_mid_range_network_table.csv (FOLDER Mesoscale structure): table with the t-SNE values, the neuron names, their group allocation and their indegree used in the figure
 
 **Figure 8**
 
