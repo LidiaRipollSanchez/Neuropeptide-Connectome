@@ -77,7 +77,8 @@ All scripts for running the analysis shown in the paper, and all the input files
 **Sensitivity data**
 (extended analysis than what show in the paper, All files in the Sensitivity Analysis FOLDER)
 
-* CSV FOLDERS include the adjacency matrices found in the Adjacency matrices for networks but at the threshold stated (T4 = CeNGEN threshold 4, T3 = CeNGEN threshold 3, the concentration at the end of the name indicates the EC50 threshold for deorphanisation, the neuropeptide_pairs.csv file on each folder indicates the identities of the individual networks )
+* Input data FOLDER: includes the data required to run the sensitivity analysis using the Run_all_analysis_of_paper script in the Scripts & data FOLDER (T4 = CeNGEN scRNAseq expression threshold 4, T3 = CeNGEN scRNAseq expression threshold 3, Ligand_receptors_interaction files indicate the connections at each EC50 threshold for deorphanisation)
+* CSV FOLDERS include the adjacency matrices found in the Adjacency matrices for networks but at the threshold stated (neuropeptide_pairs.csv file on each folder indicates the identities of the individual networks)
 * Degree FOLDER includes the degree distributions and comparisons of all the networks in the CSV FOLDERS and their comparison to the standard threshold 4 EC50 500nM
 * Rich Club folder includes the rich club of all the threshold 4 networks in the CSV FOLDERS and their comparison to the standard threshold 4 EC50 500nM
 * The image files include the images of all the networks in CSV FOLDERS, the models comparison sensitivity analysis with T4 and T3
