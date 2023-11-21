@@ -16,9 +16,9 @@ Original scRNAseq data used for analysis comes from [the CeNGEN consortia](https
 All main figures analysis is done at CeNGEN threshold 4 and EC50 deorphanisation data thresholded to 500nM, to explore the networks with alternative thresholds check the Sensitivity Analysis data. 
 All scripts for running the analysis shown in the paper, and all the input files required to run it are in the Scripts & data FOLDER.
 
-**Connected repository**
+**NemaMod**
 
-To explore the data we created a website [NemaMod](https://www.nemamod.org)
+To interactively explore the data we created a website [NemaMod](https://www.nemamod.org) . NemaMod has its own [repository](https://github.com/LidiaRipollSanchez/NemaMod.git) including all the code and data required to run the app locally 
 
 **Figure 1**
 
