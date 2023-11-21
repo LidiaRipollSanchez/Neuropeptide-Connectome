@@ -72,12 +72,13 @@ All scripts for running the analysis shown in the paper, and all the input files
 
 **Supplementary data**
 
-* 07072022_NPP_GPCR_networks_long_range_model (FOLDER Adjacency matrices for networks): 91 individual NPP-GPCR networks long-range model
-* 07072022_neuropeptide_connectome_long_range_model (FOLDER Adjacency matrices for networks): all grouped NPP-GPCR networks long-range model
+* All supplementary tables presented in [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0)
 
-**Extended sensitivity data (further analysis than what show in the paper, All files in the Sensitivity Analysis FOLDER)**
+**Sensitivity data**
+(extended analysis than what show in the paper, All files in the Sensitivity Analysis FOLDER)
 
 * CSV FOLDERS include the adjacency matrices found in the Adjacency matrices for networks but at the threshold stated (T4 = CeNGEN threshold 4, T3 = CeNGEN threshold 3, the concentration at the end of the name indicates the EC50 threshold for deorphanisation, the neuropeptide_pairs.csv file on each folder indicates the identities of the individual networks )
 * Degree FOLDER includes the degree distributions and comparisons of all the networks in the CSV FOLDERS and their comparison to the standard threshold 4 EC50 500nM
 * Rich Club folder includes the rich club of all the threshold 4 networks in the CSV FOLDERS and their comparison to the standard threshold 4 EC50 500nM
-* The other files include the images of all the networks in CSV FOLDERS, the models comparison sensitivity analysis with T4 and T3, the 
+* The image files include the images of all the networks in CSV FOLDERS, the models comparison sensitivity analysis with T4 and T3
+* 08062023_NPP_all_grouped_networks_mid_range_incoming_reordered_sensitivity.pdf : includes the comparison of the mesoscale reordered matrix for all EC50 thresholds for T4
