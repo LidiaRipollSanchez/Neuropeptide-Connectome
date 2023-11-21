@@ -18,7 +18,7 @@ All scripts for running the analysis shown in the paper, and all the input files
 
 **Connected repository**
 
-To explore the data we created a website [NemaMod](www.nemamod.org)
+To explore the data we created a website [NemaMod](https://www.nemamod.org)
 
 **Figure 1**
 
