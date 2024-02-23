@@ -15,7 +15,7 @@ Original scRNAseq data used for analysis comes from [the CeNGEN consortia](https
 
 All main figures analysis is done at CeNGEN threshold 4 and EC50 deorphanisation data thresholded to 500nM, to explore the networks with alternative thresholds check the Sensitivity Analysis data. 
 All scripts for running the analysis shown in the paper, and all the input files required to run it are in the Scripts & data FOLDER.
-The adjancency matrices in  folder were updated on 14/02/2024 with the latest release from CeNGEN data.
+The adjancency matrices in the Adjacency matrices for networks folder were updated on 14/02/2024 with the latest release from CeNGEN data.
 
 **NemaMod**
 
